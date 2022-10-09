@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.svg">
+    <img width="300" color="#000000" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.svg">
 </p>
 
 -------
@@ -14,4 +14,4 @@ Outro principal foco desse projeto foi estudar e utilizar os displays flex e gri
 - CSS
 - JavaScript
 
-<b>Link da aplicação online:</b> <a>https://filipelimavaz-strangerthings.netlify.app/](https://filipelimavaz-hzc.netlify.app/</a>
+<b>Link da aplicação online:</b> <a>https://filipelimavaz-hzc.netlify.app/</a>
