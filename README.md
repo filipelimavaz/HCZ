@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" color="#000000" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.svg">
+    <img width="300" background-color="#000000" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.svg">
 </p>
 
 -------
