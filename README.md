@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.png">
+    <img width="200" src="https://filipelimavaz-hzc.netlify.app/assets/img/logo.png">
 </p>
 
 -------
